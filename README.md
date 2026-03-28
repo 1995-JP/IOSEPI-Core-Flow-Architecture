@@ -23,3 +23,7 @@ I am looking for a strategic partner—Google, NVIDIA, or a specialized Systems 
 Let's Look at the Data
 If your team is struggling with energy efficiency in AI training or hardware-level signal lag, my models provide the path forward.
 Joseph Brick Picchiotti Systems Architect & Geometric Researcher picchiotti45@gmail.com
+
+![Proprietary Lattice Construction](IMG_4295.jpeg)
+
+
