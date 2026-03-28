@@ -27,5 +27,9 @@ Let's Look at the Data
 If your team is struggling with energy efficiency in AI training or hardware-level signal lag, my models provide the path forward.
 Joseph Brick Picchiotti Systems Architect & Geometric Researcher picchiotti45@gmail.com
 
+Core structural principles are publicly shared.
+Certain functional mechanisms and optimization strategies are intentionally reserved.
+
+Collaboration, research discussion, and formal inquiry are welcome.
 
 
