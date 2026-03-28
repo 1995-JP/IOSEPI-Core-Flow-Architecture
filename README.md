@@ -1,4 +1,6 @@
 IOSEPI Core Flow & High-Density Geometric Lattices
+![Proprietary Lattice Construction](IMG_4295.jpeg)
+
 Solving the Energy Bottleneck in Next-Gen AI Hardware
 The Problem
 We are hitting a wall in semiconductor design. As we push toward sub-2nm nodes, signal resistance and thermal runaway (entropy) are killing performance. Traditional "grid-iron" architectures are reaching their limits.
@@ -24,6 +26,5 @@ Let's Look at the Data
 If your team is struggling with energy efficiency in AI training or hardware-level signal lag, my models provide the path forward.
 Joseph Brick Picchiotti Systems Architect & Geometric Researcher picchiotti45@gmail.com
 
-![Proprietary Lattice Construction](IMG_4295.jpeg)
 
 
