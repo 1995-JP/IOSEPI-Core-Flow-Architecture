@@ -1,4 +1,5 @@
 IOSEPI Core Flow & High-Density Geometric Lattices
+IOSEPI is a lattice-based flow architecture that uses alternating half-phase states to direct and concentrate energy through structured geometry.
 ![Proprietary Lattice Construction](IMG_4295.jpeg)
 
 Solving the Energy Bottleneck in Next-Gen AI Hardware
