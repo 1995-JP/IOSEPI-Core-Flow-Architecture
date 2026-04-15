@@ -1,0 +1,3 @@
+### Addressing Bottlenecks in Architecture for AI Chip Design
+
+There are challenges related to bottlenecks in the architectural design for AI chips in this project. This may impact efficiency and scalability of the design. Collaborators are welcome to discuss potential solutions and contribute ideas to address these bottlenecks. Specific areas of interest include high-density lattice architectures and geometric logic optimizations for hardware efficiency.
